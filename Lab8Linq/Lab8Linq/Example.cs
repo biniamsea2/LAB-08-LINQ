@@ -8,11 +8,14 @@ namespace Lab8Linq
     {
         public string Type { get; set; }
         public IList<Feature> Features { get; set; }
+
         public Example(string type, IList<Feature> features)
         {
             Type = type;
             Features = features;
         }
+
+     
 
     }
 
