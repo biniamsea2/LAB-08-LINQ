@@ -49,8 +49,10 @@ Then select and open ```Lab8Linq.sln```
 
 #### Application Diagram  
 Application Start  
+
 ![Image](https://github.com/biniamsea2/LAB-08-LINQ/blob/master/Screenshots/Screenshot%20(41).png)  
 Application In Use  
+
 ![Image](https://github.com/biniamsea2/LAB-08-LINQ/blob/master/Screenshots/Screenshot%20(40).png)
 
 ---
